@@ -1,1 +1,2 @@
 "This is for testing git fetch and uploaded from PC 1"  
+"2nd lines is add from pc and for testing git pull on labtop"  
